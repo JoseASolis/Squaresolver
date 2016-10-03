@@ -1,0 +1,5 @@
+entrar a carpeta build/squaresolver y ejecutar ahi el cmd, luego escribir "python squaresolver arg1 arg2 arg3"
+arg1 = dimensiones
+arg2 = # de poblacion
+arg3 = # de muestra
+arg2 > arg3
